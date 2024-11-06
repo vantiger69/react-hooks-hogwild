@@ -1,5 +1,6 @@
 import React from "react";
 import piggy from "../assets/porco.png";
+import 'semantic-ui-css/semantic.min.css';
 
 const Nav = () => {
 	return (
